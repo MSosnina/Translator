@@ -31,6 +31,7 @@ page 50100 "AI Supported Language"
             {
                 trigger OnAction();
                 begin
+                    //
                 end;
             }
         }
