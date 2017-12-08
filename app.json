@@ -1,0 +1,23 @@
+{
+  "id": "2cd48bb1-f90d-4b93-9a22-a74b5ea8eaf6",
+  "name": "Translator",
+  "publisher": "Marina Sosnina",
+  "brief": "",
+  "description": "This app will translate text",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
